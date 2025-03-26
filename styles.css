@@ -1,0 +1,38 @@
+
+.Title {
+    font-family: 'Courier New', Courier, monospace;
+    color: midnightblue;
+}
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+img {
+    height: auto;
+    width: 300 px;
+    border: 100px;
+}
+
+.ingredients {
+    background-color: lightcoral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.instructions {
+    background-color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    color: brown;
+    font-size: 24px;
+}
+
+.description {
+    font-size: 18px;
+    color: blue;
+}
